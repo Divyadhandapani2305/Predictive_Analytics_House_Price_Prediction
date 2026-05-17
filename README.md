@@ -8,6 +8,11 @@ This project predicts house prices using the King County dataset. It was develop
 - **IDE:** Visual Studio Code (VS Code)
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
+  
+## Files in this Repository
+- House_Price_Prediction.py - Python Code
+- kc_house_data - kc_house_data.csv - Grouped Dataset
+
 ## 📊 Models Implemented & Compared
 We trained and evaluated three different models to find the best predictor:
 1. **Linear Regression** (Baseline Model)
