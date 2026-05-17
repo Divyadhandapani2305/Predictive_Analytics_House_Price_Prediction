@@ -12,9 +12,9 @@ This project predicts house prices using the King County dataset. It was develop
 ## Files in this Repository
 - House_Price_Prediction.py - Python Code
 - kc_house_data - kc_house_data.csv - Grouped Dataset
-- charts_ScreenChats - Screenshot 2026-05-17 185805.png
-                Screenshot 2026-05-17 185832.png
-                Screenshot 2026-05-17 185854.png
+- charts_ScreenChats - Screenshot 2026-05-17 185805.png,
+                Screenshot 2026-05-17 185832.png,
+                Screenshot 2026-05-17 185854.png.
 
 ## 📊 Models Implemented & Compared
 We trained and evaluated three different models to find the best predictor:
